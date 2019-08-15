@@ -8,6 +8,8 @@ Less than 15k Parameters
 Have started from a Vanilla network (no BN, DropOut, LR, larger batch size, change in Optimizer, etc)
 
 # Solution
+What I have achieved? - with ~10k params, reached 99.4% val acc in 10 epochs! :)
+How'd I achieve it? - Kindly go through the following flow of attempts at building a network.
 
 # First Attempt - Vanilla Network
 10k params (keeping less params so that I can add more if reqd-flexible)
