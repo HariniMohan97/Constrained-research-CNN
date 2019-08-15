@@ -1,6 +1,6 @@
 # Session4
 
-#Aim:
+# Aim:
 Write your Assignment 3 again such that:
 Finally after 4 code iterations achieve:
 99.4% accuracy
