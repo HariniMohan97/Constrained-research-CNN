@@ -9,6 +9,7 @@ Have started from a Vanilla network (no BN, DropOut, LR, larger batch size, chan
 
 # Solution
 What I have achieved? - with ~10k params, reached 99.4% val acc in 10 epochs! :)
+
 How'd I achieve it? - Kindly go through the following flow of attempts at building a network.
 
 # First Attempt - Vanilla Network
